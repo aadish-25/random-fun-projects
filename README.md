@@ -23,4 +23,4 @@ Feel free to fork, add projects, and submit pull requests.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt) - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE.txt](LICENSE) file for details.
