@@ -8,7 +8,7 @@ A collection of small, self-contained coding experiments and utilities.
 
 1. **Clone the repo**
    ```sh
-   git clone https://github.com/<your-username>/random-fun-projects.git
+   git clone https://github.com/aadish-25/random-fun-projects.git
    cd random-fun-projects
    ```
 
@@ -16,11 +16,6 @@ A collection of small, self-contained coding experiments and utilities.
    - Each project lives in its own folder at the root.
    - Open the folder and follow the instructions in its own README (if available).
 
-## How to Add a Project
-
-1. Create a new folder under the root directory.
-2. Add your project files (code, README, config, etc.).
-3. Update this README to list your new project (optional).
 
 ## Contributing
 
@@ -28,5 +23,4 @@ Feel free to fork, add projects, and submit pull requests.
 
 ## License
 
-MIT © Your Name
-
+This project is licensed under the [MIT License](LICENSE.txt) - see the [LICENSE.txt](LICENSE.txt) file for details.
